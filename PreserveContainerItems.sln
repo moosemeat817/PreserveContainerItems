@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11520.95 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreserveContainerItems", "PreserveContainerItems.csproj", "{1CD5AEFD-2FD4-1AF2-5C83-95DC0CCC3551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CD5AEFD-2FD4-1AF2-5C83-95DC0CCC3551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD5AEFD-2FD4-1AF2-5C83-95DC0CCC3551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD5AEFD-2FD4-1AF2-5C83-95DC0CCC3551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD5AEFD-2FD4-1AF2-5C83-95DC0CCC3551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D285C6D9-A6AB-4A02-9B62-871079CEBF34}
+	EndGlobalSection
+EndGlobal
